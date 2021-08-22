@@ -1,2 +1,9 @@
+matplotlib
+scipy
+pygraphviz
+nbval
 git+git://github.com/networkx/networkx@main
-matplotlib==3.4.3
+sphinx
+myst-nb
+pydata-sphinx-theme
+jupytext
