@@ -1,2 +1,2 @@
-networkx==2.6.2
+git+git://github.com/networkx/networkx@main
 matplotlib==3.4.3
