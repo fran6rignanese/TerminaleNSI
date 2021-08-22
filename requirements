@@ -1,9 +1,1 @@
-matplotlib
-scipy
-pygraphviz
-nbval
-git+git://github.com/networkx/networkx@main
-sphinx
-myst-nb
-pydata-sphinx-theme
-jupytext
+networks>=2.6
