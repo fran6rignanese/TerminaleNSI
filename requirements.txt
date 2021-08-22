@@ -1,1 +1,2 @@
 folium==0.12.1
+networkx==2.6.2
