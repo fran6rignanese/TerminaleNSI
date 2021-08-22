@@ -1,1 +1,4 @@
-networks>=2.6
+networks==2.6.2
+matplotlib==3.4.3
+
+
